@@ -11,6 +11,4 @@ telescope control protocol. This is made as a foundation for a computer controll
 
 Again, this doesn't include code to actually point anything anywhere- it just makes it easy to work with Stellarium commands. You'd have to create your own motor controller.
 
-For more information on Stellarium telescope control visit:
-
-[Stellarium Telescope Control Protocol](https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt)
+For more information on Stellarium telescope control visit [this page](/protocol.txt) ([Alternate link here](https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt)).
