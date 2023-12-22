@@ -1,4 +1,4 @@
-PYSCOPE
+PyScope
 =======
 
 A Stellarium compatible telescope control server written in Python. I've updated it to be Python 3-compatible and improved the code a little. It's possible I will further modify this for personal use.
