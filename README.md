@@ -13,4 +13,4 @@ Again, this doesn't include code to actually point anything anywhere- it just ma
 
 For more information on Stellarium telescope control visit:
 
-[(https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt)https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt](https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt)https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt
+[Stellarium Telescope Control Protocol](https://free-astro.org/images/b/b7/Stellarium_telescope_protocol.txt)
